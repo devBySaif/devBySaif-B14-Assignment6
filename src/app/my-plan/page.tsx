@@ -278,7 +278,7 @@ function MyPlanContent() {
     </section>
   );
 }
-
+//added saveworkout details 
 export default function MyPlanPage() {
   return (
     <Suspense
