@@ -11,6 +11,8 @@ export function WorkoutCard({
   index?: number;
 }) {
   return (
+
+    //done workout card
     <Link
       className="workout-card"
       href={`/workout/${workout.id}`}
