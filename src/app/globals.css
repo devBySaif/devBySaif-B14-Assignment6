@@ -32,6 +32,8 @@ input,
 select {
   font: inherit;
 }
+
+/* button css */
 button,
 a {
   -webkit-tap-highlight-color: transparent;
