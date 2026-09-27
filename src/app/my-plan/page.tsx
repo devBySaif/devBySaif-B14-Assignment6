@@ -141,7 +141,8 @@ function MyPlanContent() {
       nextTab === "saved" ? "/my-plan?tab=saved" : "/my-plan",
     );
   }
-
+ 
+  //workout details
   return (
     <section className="plan-page">
       <div className="plan-topline">
