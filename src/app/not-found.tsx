@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
 export default function NotFound() {
+  //not found page 
   return (
     <section className="not-found">
       <p className="eyebrow">
