@@ -8,7 +8,7 @@ FitLog is a workout library and daily training log for planning gym sessions. Ex
 - React 19 and TypeScript
 - Tailwind CSS 4 with custom responsive CSS
 - Lucide React
-- FitLog REST API
+- FitLog  API
 - Browser `localStorage` for saved workouts and daily plans
 
 ## Key Features

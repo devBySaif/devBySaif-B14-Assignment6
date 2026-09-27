@@ -32,6 +32,7 @@ function PlanWorkoutRow({
   onRemove: () => void;
 }) {
   return (
+    //plan page
     <article className={`plan-row${isDone ? " is-done" : ""}`}>
       <Link className="plan-thumb" href={`/workout/${workout.id}`}>
         <Image src={workout.image} alt="" fill sizes="100px" />
